@@ -1,0 +1,33 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    environment:
+      - SERVICE=bot
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - CHROMA_DB_PATH=${CHROMA_DB_PATH}
+      - SECRET_KEY=${SECRET_KEY}
+      - ADMIN_PASSWORD_HASH=${ADMIN_PASSWORD_HASH}
+      - ADMIN_PANEL_URL=http://localhost:8080
+    volumes:
+      - ./data:/app/data
+      - ./db:/app/db
+      - ./models:/app/models
+    restart: unless-stopped
+  admin_panel:
+    build: .
+    environment:
+      - SERVICE=admin
+      - TELEGRAM_TOKEN=${TELEGRAM_TOKEN}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - CHROMA_DB_PATH=${CHROMA_DB_PATH}
+      - SECRET_KEY=${SECRET_KEY}
+      - ADMIN_PASSWORD_HASH=${ADMIN_PASSWORD_HASH}
+    ports:
+      - "8080:5000"
+    volumes:
+      - ./data:/app/data
+      - ./db:/app/db
+      - ./models:/app/models
+    restart: unless-stopped 

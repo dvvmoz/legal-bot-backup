@@ -1,0 +1,19 @@
+2025-07-16 10:11:14,452 - root - INFO - СТАРТ: Запуск юридического чат-бота...
+2025-07-16 10:11:14,485 - modules.bot_handler - INFO - Бот инициализирован
+2025-07-16 10:11:14,488 - modules.bot_handler - INFO - Запуск бота в режиме polling...
+2025-07-16 10:11:14,545 - modules.bot_handler - INFO - ✅ Команды бота успешно установлены:
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /start - Начать работу с ботом
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /help - Справка по использованию
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /stats - Статистика базы знаний
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /admin - Веб-панель администратора
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /analytics - Аналитика ML-фильтра
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /startadmin - Запуск админ-панели
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /stopadmin - Остановка админ-панели
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /scrape - Скрапинг сайтов
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /update - Инкрементальное обновление
+2025-07-16 10:11:14,546 - modules.bot_handler - INFO -    /dynamic - Статистика динамического поиска
+2025-07-16 10:11:14,546 - aiogram.dispatcher - INFO - Start polling
+2025-07-16 10:11:14,559 - aiogram.dispatcher - INFO - Run polling for bot @legal_rb_rag_bot id=8093070223 - 'Юридический консультант РБ'
+2025-07-16 11:01:06,593 - modules.bot_handler - INFO - Пользователь 872659170 (@dvvmoz) запросил /start_admin
+2025-07-16 11:01:10,082 - modules.bot_handler - INFO - Админ-панель запущена пользователем 872659170, PID: 35
+2025-07-16 11:01:10,082 - aiogram.event - INFO - Update id=667374550 is handled. Duration 3489 ms by bot id=8093070223

@@ -1,0 +1,66 @@
+# Список юридических сайтов для скрапинга (Беларусь + Россия)
+# По одному URL на строку
+
+# === РЕСПУБЛИКА БЕЛАРУСЬ ===
+
+# Основные правовые порталы Беларуси
+https://pravo.by/
+https://www.government.by/
+https://www.house.gov.by/
+https://www.kc.gov.by/
+
+# Судебная система Беларуси
+https://www.court.gov.by/
+https://www.economic.court.by/
+https://www.constitutional.court.by/
+
+# Правоохранительные органы
+https://www.prokuratura.gov.by/
+https://www.mvd.gov.by/
+https://www.kgb.by/
+
+# Министерства и ведомства
+https://www.minjust.gov.by/
+https://www.minfin.gov.by/
+https://www.mintrud.gov.by/
+https://www.economy.gov.by/
+
+# Нотариат и адвокатура
+https://www.notariat.by/
+https://www.advpalata.by/
+
+# Правовые ресурсы и консультации
+https://www.lawbelarus.com/
+https://www.jurist.by/
+https://www.lawyer.by/
+https://www.normativka.by/
+
+# Региональные исполкомы
+https://minsk.gov.by/
+https://www.gomel.gov.by/
+https://www.vitebsk.gov.by/
+https://www.mogilev.gov.by/
+https://www.grodno.gov.by/
+https://www.brest.gov.by/
+
+# === РОССИЙСКАЯ ФЕДЕРАЦИЯ (для сравнительного анализа) ===
+
+# Основные правовые порталы России
+https://www.garant.ru/
+https://www.consultant.ru/
+https://www.pravo.gov.ru/
+
+# Юридические новости и аналитика
+https://www.advgazeta.ru/
+https://www.law.ru/
+https://www.jurist.ru/
+
+# Государственные правовые ресурсы
+https://www.ksrf.ru/
+https://www.vsrf.ru/
+https://www.arbitr.ru/
+
+# Специализированные юридические сайты
+https://www.notariat.ru/
+https://www.fedresurs.ru/
+https://www.nalog.gov.ru/ 

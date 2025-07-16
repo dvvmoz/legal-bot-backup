@@ -1,0 +1,682 @@
+2025-07-16 10:11:11,345 - modules.knowledge_base - INFO - ✅ База знаний инициализирована: legal_docs
+2025-07-16 10:11:11,347 - __main__ - INFO - Сервисы админ-панели инициализированы
+2025-07-16 10:11:11,356 - __main__ - INFO - Запуск админ-панели на http://0.0.0.0:5000
+2025-07-16 10:11:11,356 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-07-16 10:11:11,363 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2025-07-16 10:11:11,363 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 10:11:13,725 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuMp HTTP/1.1" 200 -
+2025-07-16 10:11:13,803 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuMp HTTP/1.1" 200 -
+2025-07-16 10:11:13,832 - __main__ - INFO - Клиент подключился: zBNgY7sN0sEYcdX3AAAC
+2025-07-16 10:11:13,838 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "POST /socket.io/?EIO=4&transport=polling&t=PWIjuOS&sid=pIjv5i_iY3FWO8M9AAAA HTTP/1.1" 200 -
+2025-07-16 10:11:13,840 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuOU&sid=pIjv5i_iY3FWO8M9AAAA HTTP/1.1" 200 -
+2025-07-16 10:11:13,906 - __main__ - INFO - Клиент подключился: y9vYDGEXd4A4wGfCAAAD
+2025-07-16 10:11:13,906 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "POST /socket.io/?EIO=4&transport=polling&t=PWIjuPe&sid=flzgB5SrPcRLlHg6AAAB HTTP/1.1" 200 -
+2025-07-16 10:11:13,908 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuPf&sid=flzgB5SrPcRLlHg6AAAB HTTP/1.1" 200 -
+2025-07-16 10:11:13,938 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:13] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuQD&sid=pIjv5i_iY3FWO8M9AAAA HTTP/1.1" 200 -
+2025-07-16 10:11:14,005 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:14] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuRG&sid=flzgB5SrPcRLlHg6AAAB HTTP/1.1" 200 -
+2025-07-16 10:11:15,720 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:15] "GET /socket.io/?EIO=4&transport=polling&t=PWIjurw HTTP/1.1" 200 -
+2025-07-16 10:11:15,822 - __main__ - INFO - Клиент подключился: UU6P5mccwXp-nXq0AAAF
+2025-07-16 10:11:15,824 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:15] "POST /socket.io/?EIO=4&transport=polling&t=PWIjuta&sid=tjPx2pVTq5_8dDY1AAAE HTTP/1.1" 200 -
+2025-07-16 10:11:15,824 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:15] "GET /socket.io/?EIO=4&transport=polling&t=PWIjutc&sid=tjPx2pVTq5_8dDY1AAAE HTTP/1.1" 200 -
+2025-07-16 10:11:15,922 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:15] "GET /socket.io/?EIO=4&transport=polling&t=PWIjuvE&sid=tjPx2pVTq5_8dDY1AAAE HTTP/1.1" 200 -
+2025-07-16 10:11:40,747 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:11:41,829 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:11:42,910 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:11:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:40,746 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:41,830 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:42,913 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:43,996 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:44,557 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:44] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:12:44,635 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:44] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:12:47,792 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:47] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:52,804 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:52] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:12:57,795 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:12:57] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:00,721 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:00] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:00,798 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:00] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:02,792 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:02] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:05,039 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET / HTTP/1.1" 200 -
+2025-07-16 10:13:05,087 - __main__ - INFO - Клиент отключился: zBNgY7sN0sEYcdX3AAAC
+2025-07-16 10:13:05,088 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET /socket.io/?EIO=4&transport=websocket&sid=pIjv5i_iY3FWO8M9AAAA HTTP/1.1" 200 -
+2025-07-16 10:13:05,183 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET /socket.io/?EIO=4&transport=polling&t=PWIkJat HTTP/1.1" 200 -
+2025-07-16 10:13:05,222 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:05,381 - __main__ - INFO - Клиент подключился: yQAC8ENShmF5FS2HAAAH
+2025-07-16 10:13:05,383 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "POST /socket.io/?EIO=4&transport=polling&t=PWIkJdS&sid=C85GRd4PZ5PqEGopAAAG HTTP/1.1" 200 -
+2025-07-16 10:13:05,389 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET /socket.io/?EIO=4&transport=polling&t=PWIkJdS.0&sid=C85GRd4PZ5PqEGopAAAG HTTP/1.1" 200 -
+2025-07-16 10:13:05,483 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:05] "GET /socket.io/?EIO=4&transport=polling&t=PWIkJf9&sid=C85GRd4PZ5PqEGopAAAG HTTP/1.1" 200 -
+2025-07-16 10:13:06,227 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:06] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:07,309 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:07] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:07,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:07] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:07,946 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:07] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:11,226 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:11] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:16,222 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:16] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:21,224 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:21,967 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:21] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:22,044 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:22] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:26,233 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:31,228 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:31] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:32,934 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:32] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:33,011 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:33] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:36,221 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:36] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:37,815 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:37] "GET / HTTP/1.1" 200 -
+2025-07-16 10:13:37,861 - __main__ - INFO - Клиент отключился: yQAC8ENShmF5FS2HAAAH
+2025-07-16 10:13:37,862 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:37] "GET /socket.io/?EIO=4&transport=websocket&sid=C85GRd4PZ5PqEGopAAAG HTTP/1.1" 200 -
+2025-07-16 10:13:37,972 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:37] "GET /socket.io/?EIO=4&transport=polling&t=PWIkRb0 HTTP/1.1" 200 -
+2025-07-16 10:13:38,011 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:38] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:13:38,090 - __main__ - INFO - Клиент подключился: -72SxAfM18DGlPLbAAAJ
+2025-07-16 10:13:38,092 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:38] "POST /socket.io/?EIO=4&transport=polling&t=PWIkRcO&sid=tt3VsC2xZ5fjOL_NAAAI HTTP/1.1" 200 -
+2025-07-16 10:13:38,093 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:38] "GET /socket.io/?EIO=4&transport=polling&t=PWIkRcP&sid=tt3VsC2xZ5fjOL_NAAAI HTTP/1.1" 200 -
+2025-07-16 10:13:38,189 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:38] "GET /socket.io/?EIO=4&transport=polling&t=PWIkReC&sid=tt3VsC2xZ5fjOL_NAAAI HTTP/1.1" 200 -
+2025-07-16 10:13:39,017 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:40,100 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:41,183 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:42,265 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:44,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:49,008 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:53,997 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:53] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:13:59,005 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:13:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:04,011 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:09,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:14,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:19,002 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:24,000 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:29,002 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:33,997 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:38,993 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:38] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:40,738 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:41,822 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:44,008 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:49,000 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:54,005 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:14:59,006 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:14:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:04,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:08,994 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:08] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:14,720 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:19,713 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:24,718 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:27,321 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:27] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:15:27,398 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:27] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:15:28,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:28] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:33,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:38,993 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:38] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:40,747 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:41,829 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:43,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:44,414 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:44] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:15:44,490 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:44] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:15:49,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:50,125 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:50] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:51,210 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:51] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:54,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:15:58,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:15:58] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:03,998 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:09,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:13,998 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:13] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:18,996 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:18] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:23,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:29,002 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:34,002 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:39,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:40,734 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:41,817 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:43,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:49,005 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:54,003 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:16:59,001 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:16:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:03,999 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:09,005 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:14,006 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:19,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:24,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:28,996 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:28] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:30,432 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:30] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:17:30,508 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:30] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:17:33,989 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:39,716 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:40,797 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:41,881 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:44,723 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:49,715 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:54,710 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:17:59,720 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:17:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:04,723 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:09,708 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:14,709 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:19,722 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:24,713 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:29,727 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:34,713 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:40,727 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:41,811 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:18:42,892 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:18:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:19:40,732 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:19:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:19:41,815 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:19:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:19:42,899 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:19:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:20:40,735 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:20:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:20:41,818 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:20:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:20:42,899 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:20:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:21:40,727 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:21:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:21:41,810 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:21:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:21:42,892 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:21:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:22:40,729 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:22:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:22:41,812 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:22:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:22:42,895 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:22:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:23:40,721 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:23:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:23:41,804 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:23:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:23:42,886 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:23:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:24:40,727 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:24:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:24:41,811 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:24:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:24:42,892 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:24:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:25:40,727 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:25:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:25:41,808 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:25:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:25:42,890 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:25:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:25:49,215 - werkzeug - INFO - 89.42.231.140 - - [16/Jul/2025 10:25:49] "[33mGET /cgi-bin/luci/;stok=/locale HTTP/1.1[0m" 404 -
+2025-07-16 10:26:23,383 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:24,465 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:28,984 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:28] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:33,992 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:39,704 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:40,786 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:41,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:43,981 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:46,793 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:46] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:47,878 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:47] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:48,396 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:48] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:26:48,473 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:48] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:26:48,986 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:48] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:50,897 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:50] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:26:50,973 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:50] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:26:53,985 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:53] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:26:56,003 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:56] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:26:56,080 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:56] "GET /api/processes HTTP/1.1" 200 -
+2025-07-16 10:26:58,986 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:26:58] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:00,069 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:00] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:01,153 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:01] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:03,996 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:09,714 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:14,705 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:19,701 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:24,709 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:29,707 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:34,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:39,707 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:40,789 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:41,874 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:44,703 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:49,705 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:54,712 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:27:59,714 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:27:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:28:04,707 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:28:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:28:40,717 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:28:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:28:41,801 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:28:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:28:42,883 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:28:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:29:40,722 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:29:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:29:41,805 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:29:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:29:42,888 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:29:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:30:40,725 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:30:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:30:41,809 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:30:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:30:42,892 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:30:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:40,719 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:41,803 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:42,886 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:48,539 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:48] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:49,623 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:54,702 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:31:59,699 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:31:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:04,708 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:09,695 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:14,704 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:19,706 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:24,706 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:29,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:34,694 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:39,696 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:40,778 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:41,863 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:44,697 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:49,698 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:54,537 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:32:59,691 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:32:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:04,704 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:09,706 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:14,701 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:19,706 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:24,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:29,691 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:34,707 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:39,705 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:40,786 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:41,869 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:44,692 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:49,694 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:33:54,708 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:33:54] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:34:40,715 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:34:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:34:41,798 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:34:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:34:42,879 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:34:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:21,268 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:22,800 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:22] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:35:22,876 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:22] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:35:23,975 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:24,541 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "GET / HTTP/1.1" 200 -
+2025-07-16 10:35:24,589 - __main__ - INFO - Клиент отключился: -72SxAfM18DGlPLbAAAJ
+2025-07-16 10:35:24,589 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "GET /socket.io/?EIO=4&transport=websocket&sid=tt3VsC2xZ5fjOL_NAAAI HTTP/1.1" 200 -
+2025-07-16 10:35:24,698 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "GET /socket.io/?EIO=4&transport=polling&t=PWIpQd7 HTTP/1.1" 200 -
+2025-07-16 10:35:24,738 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:35:24,909 - __main__ - INFO - Клиент подключился: EHu1LCZcbjJN6b0TAAAL
+2025-07-16 10:35:24,911 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "POST /socket.io/?EIO=4&transport=polling&t=PWIpQfu&sid=8IuBLKGhUVRGHqBjAAAK HTTP/1.1" 200 -
+2025-07-16 10:35:24,912 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:24] "GET /socket.io/?EIO=4&transport=polling&t=PWIpQfv&sid=8IuBLKGhUVRGHqBjAAAK HTTP/1.1" 200 -
+2025-07-16 10:35:25,014 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:25] "GET /socket.io/?EIO=4&transport=polling&t=PWIpQhf&sid=8IuBLKGhUVRGHqBjAAAK HTTP/1.1" 200 -
+2025-07-16 10:35:25,743 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:25] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:26,824 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:30,734 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:30] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:34,569 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:34] "GET / HTTP/1.1" 200 -
+2025-07-16 10:35:34,614 - __main__ - INFO - Клиент отключился: EHu1LCZcbjJN6b0TAAAL
+2025-07-16 10:35:34,614 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:34] "GET /socket.io/?EIO=4&transport=websocket&sid=8IuBLKGhUVRGHqBjAAAK HTTP/1.1" 200 -
+2025-07-16 10:35:34,749 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:34] "GET /socket.io/?EIO=4&transport=polling&t=PWIpT47 HTTP/1.1" 200 -
+2025-07-16 10:35:34,788 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:34] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 10:35:34,912 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 10:35:35,356 - __main__ - INFO - Клиент подключился: l08IGSS-ydBKs4CVAAAN
+2025-07-16 10:35:35,357 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:35] "POST /socket.io/?EIO=4&transport=polling&t=PWIpTD8&sid=E0odd9CIvrl6dZMJAAAM HTTP/1.1" 200 -
+2025-07-16 10:35:35,357 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:35] "GET /socket.io/?EIO=4&transport=polling&t=PWIpTD9&sid=E0odd9CIvrl6dZMJAAAM HTTP/1.1" 200 -
+2025-07-16 10:35:35,454 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:35] "GET /socket.io/?EIO=4&transport=polling&t=PWIpTEn&sid=E0odd9CIvrl6dZMJAAAM HTTP/1.1" 200 -
+2025-07-16 10:35:35,794 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:35] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:35,795 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:35] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:40,713 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:41,796 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:42,878 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:46,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:46] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:51,699 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:51] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:35:56,699 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:35:56] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:01,696 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:01] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:06,690 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:06] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:11,698 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:11] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:16,699 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:16] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:21,687 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:26,697 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:31,696 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:31] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:36,687 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:36] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:40,715 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:36:41,797 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:36:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:23,762 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:26,705 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:31,697 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:31] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:36,692 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:36] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:40,708 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:41,792 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:42,874 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:46,698 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:46] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:51,696 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:51] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:37:56,690 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:37:56] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:01,695 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:01] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:06,696 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:06] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:11,692 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:11] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:16,693 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:16] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:21,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:40,710 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:41,793 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:38:42,876 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:38:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:39:40,707 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:39:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:39:41,790 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:39:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:39:42,873 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:39:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:40:40,714 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:40:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:40:41,797 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:40:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:40:42,879 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:40:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:41:40,711 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:41:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:41:41,794 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:41:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:41:42,877 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:41:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:42:40,715 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:42:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:42:41,807 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:42:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:42:42,889 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:42:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:43:40,709 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:43:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:43:41,792 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:43:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:43:42,875 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:43:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:44:40,703 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:44:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:44:41,787 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:44:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:44:42,869 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:44:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:45:40,702 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:45:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:45:41,786 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:45:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:45:42,869 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:45:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:46:40,711 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:46:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:46:41,794 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:46:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:46:42,876 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:46:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:47:40,702 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:47:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:47:41,786 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:47:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:47:42,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:47:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:48:40,703 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:48:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:48:41,785 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:48:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:48:42,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:48:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:49:40,701 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:49:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:49:41,785 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:49:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:49:42,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:49:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:50:40,699 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:50:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:50:41,783 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:50:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:50:42,866 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:50:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:51:40,697 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:51:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:51:41,779 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:51:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:51:42,863 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:51:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:52:40,708 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:52:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:52:41,792 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:52:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:52:42,875 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:52:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:53:40,697 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:53:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:53:41,780 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:53:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:53:42,863 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:53:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:54:40,692 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:54:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:54:41,775 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:54:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:54:42,857 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:54:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:55:40,700 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:55:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:55:41,782 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:55:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:55:42,865 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:55:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:32,102 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:32] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:36,677 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:36] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:40,690 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:41,771 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:42,855 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:46,682 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:46] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:51,669 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:51] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:56:56,678 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:56:56] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:01,681 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:01] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:06,687 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:06] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:11,676 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:11] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:16,677 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:16] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:21,678 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:26,676 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:31,679 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:31] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:40,704 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:41,787 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:57:42,869 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:57:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:58:40,692 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:58:41,776 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:58:44,083 - modules.knowledge_base - INFO - ✅ База знаний инициализирована: legal_docs
+2025-07-16 10:58:44,084 - __main__ - INFO - Сервисы админ-панели инициализированы
+2025-07-16 10:58:44,089 - __main__ - INFO - Запуск админ-панели на http://0.0.0.0:5000
+2025-07-16 10:58:44,090 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-07-16 10:58:44,094 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2025-07-16 10:58:44,094 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 10:58:44,200 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIum9t HTTP/1.1" 200 -
+2025-07-16 10:58:44,302 - __main__ - INFO - Клиент подключился: qbCa9fLD6mFmd2IlAAAB
+2025-07-16 10:58:44,304 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "POST /socket.io/?EIO=4&transport=polling&t=PWIumJp&sid=rnwV42VRvb3MvKEtAAAA HTTP/1.1" 200 -
+2025-07-16 10:58:44,305 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumJq&sid=rnwV42VRvb3MvKEtAAAA HTTP/1.1" 200 -
+2025-07-16 10:58:44,400 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumLR&sid=rnwV42VRvb3MvKEtAAAA HTTP/1.1" 200 -
+2025-07-16 10:58:44,638 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumPf HTTP/1.1" 200 -
+2025-07-16 10:58:44,716 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumPf HTTP/1.1" 200 -
+2025-07-16 10:58:44,740 - __main__ - INFO - Клиент подключился: Jc1fU6qWY2d0t6lRAAAE
+2025-07-16 10:58:44,742 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "POST /socket.io/?EIO=4&transport=polling&t=PWIumQg&sid=gOztwS0q0miuDpdNAAAC HTTP/1.1" 200 -
+2025-07-16 10:58:44,743 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumQh&sid=gOztwS0q0miuDpdNAAAC HTTP/1.1" 200 -
+2025-07-16 10:58:44,819 - __main__ - INFO - Клиент подключился: sHvcEsyOEqkEQpx0AAAF
+2025-07-16 10:58:44,820 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "POST /socket.io/?EIO=4&transport=polling&t=PWIumRt&sid=8LMYzZ5ICojrl0R_AAAD HTTP/1.1" 200 -
+2025-07-16 10:58:44,820 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumRu&sid=8LMYzZ5ICojrl0R_AAAD HTTP/1.1" 200 -
+2025-07-16 10:58:44,840 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumSI&sid=gOztwS0q0miuDpdNAAAC HTTP/1.1" 200 -
+2025-07-16 10:58:44,919 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:58:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIumTX&sid=8LMYzZ5ICojrl0R_AAAD HTTP/1.1" 200 -
+2025-07-16 10:59:10,650 - modules.knowledge_base - INFO - ✅ База знаний инициализирована: legal_docs
+2025-07-16 10:59:10,650 - __main__ - INFO - Сервисы админ-панели инициализированы
+2025-07-16 10:59:10,654 - __main__ - INFO - Запуск админ-панели на http://0.0.0.0:5000
+2025-07-16 10:59:10,654 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-07-16 10:59:10,657 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2025-07-16 10:59:10,657 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 10:59:10,938 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:10] "GET /socket.io/?EIO=4&transport=polling&t=PWIuslz HTTP/1.1" 200 -
+2025-07-16 10:59:11,016 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIuslz HTTP/1.1" 200 -
+2025-07-16 10:59:11,044 - __main__ - INFO - Клиент подключился: x5pl6QEA_4_puKJ0AAAC
+2025-07-16 10:59:11,044 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "POST /socket.io/?EIO=4&transport=polling&t=PWIusrd&sid=XaCrPxRJMosKMCdZAAAA HTTP/1.1" 200 -
+2025-07-16 10:59:11,045 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIusre&sid=XaCrPxRJMosKMCdZAAAA HTTP/1.1" 200 -
+2025-07-16 10:59:11,096 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIuslz HTTP/1.1" 200 -
+2025-07-16 10:59:11,118 - __main__ - INFO - Клиент подключился: b9KG7Cq34EEUFedJAAAE
+2025-07-16 10:59:11,119 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "POST /socket.io/?EIO=4&transport=polling&t=PWIussp&sid=N8b6e_bMSPMIKrSkAAAB HTTP/1.1" 200 -
+2025-07-16 10:59:11,119 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIussr&sid=N8b6e_bMSPMIKrSkAAAB HTTP/1.1" 200 -
+2025-07-16 10:59:11,145 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIustK&sid=XaCrPxRJMosKMCdZAAAA HTTP/1.1" 200 -
+2025-07-16 10:59:11,197 - __main__ - INFO - Клиент подключился: Q0LYbBdhDPCm4pAGAAAF
+2025-07-16 10:59:11,197 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "POST /socket.io/?EIO=4&transport=polling&t=PWIusu4&sid=19pITYxcyMcqYlNlAAAD HTTP/1.1" 200 -
+2025-07-16 10:59:11,198 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIusu5&sid=19pITYxcyMcqYlNlAAAD HTTP/1.1" 200 -
+2025-07-16 10:59:11,216 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIusuR&sid=N8b6e_bMSPMIKrSkAAAB HTTP/1.1" 200 -
+2025-07-16 10:59:11,260 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:11] "GET /socket.io/?EIO=4&transport=polling&t=PWIusvh&sid=19pITYxcyMcqYlNlAAAD HTTP/1.1" 200 -
+2025-07-16 10:59:40,711 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:59:41,794 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 10:59:42,877 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 10:59:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:19,021 - modules.knowledge_base - INFO - ✅ База знаний инициализирована: legal_docs
+2025-07-16 11:00:19,021 - __main__ - INFO - Сервисы админ-панели инициализированы
+2025-07-16 11:00:19,025 - __main__ - INFO - Запуск админ-панели на http://0.0.0.0:5000
+2025-07-16 11:00:19,026 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-07-16 11:00:19,029 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.2:5000
+2025-07-16 11:00:19,030 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 11:00:19,221 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7MK HTTP/1.1" 200 -
+2025-07-16 11:00:19,299 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7MK HTTP/1.1" 200 -
+2025-07-16 11:00:19,327 - __main__ - INFO - Клиент подключился: 8-n3aCjQuXSUlfYJAAAC
+2025-07-16 11:00:19,328 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "POST /socket.io/?EIO=4&transport=polling&t=PWIv7WZ&sid=ghuCSehSk2t5u42WAAAA HTTP/1.1" 200 -
+2025-07-16 11:00:19,328 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7Wa&sid=ghuCSehSk2t5u42WAAAA HTTP/1.1" 200 -
+2025-07-16 11:00:19,377 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7MK HTTP/1.1" 200 -
+2025-07-16 11:00:19,400 - __main__ - INFO - Клиент подключился: FpKtRmcEIOXS60WkAAAE
+2025-07-16 11:00:19,400 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "POST /socket.io/?EIO=4&transport=polling&t=PWIv7Xl&sid=2UTU2CezHygAYgfqAAAB HTTP/1.1" 200 -
+2025-07-16 11:00:19,401 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7Xm&sid=2UTU2CezHygAYgfqAAAB HTTP/1.1" 200 -
+2025-07-16 11:00:19,425 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7YE&sid=ghuCSehSk2t5u42WAAAA HTTP/1.1" 200 -
+2025-07-16 11:00:19,468 - __main__ - INFO - Клиент подключился: ZGUhoKF7Hv_BVMHjAAAF
+2025-07-16 11:00:19,469 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "POST /socket.io/?EIO=4&transport=polling&t=PWIv7Yz&sid=qMJhPDlKL8xOVv10AAAD HTTP/1.1" 200 -
+2025-07-16 11:00:19,475 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7Y-&sid=qMJhPDlKL8xOVv10AAAD HTTP/1.1" 200 -
+2025-07-16 11:00:19,476 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7ZO&sid=2UTU2CezHygAYgfqAAAB HTTP/1.1" 200 -
+2025-07-16 11:00:19,535 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:19] "GET /socket.io/?EIO=4&transport=polling&t=PWIv7aV&sid=qMJhPDlKL8xOVv10AAAD HTTP/1.1" 200 -
+2025-07-16 11:00:27,389 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:27] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:29,345 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:29] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:29,423 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:29] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:30,766 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:30] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:35,756 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:35] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:36,067 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET / HTTP/1.1" 200 -
+2025-07-16 11:00:36,114 - __main__ - INFO - Клиент отключился: ZGUhoKF7Hv_BVMHjAAAF
+2025-07-16 11:00:36,115 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET /socket.io/?EIO=4&transport=websocket&sid=qMJhPDlKL8xOVv10AAAD HTTP/1.1" 200 -
+2025-07-16 11:00:36,246 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET /socket.io/?EIO=4&transport=polling&t=PWIvBfE HTTP/1.1" 200 -
+2025-07-16 11:00:36,287 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:36,439 - __main__ - INFO - Клиент подключился: bOKdiaNz4uxSLqO5AAAH
+2025-07-16 11:00:36,441 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "POST /socket.io/?EIO=4&transport=polling&t=PWIvBhy&sid=gVT4SD7uOVIDSQcAAAAG HTTP/1.1" 200 -
+2025-07-16 11:00:36,449 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET /socket.io/?EIO=4&transport=polling&t=PWIvBhz&sid=gVT4SD7uOVIDSQcAAAAG HTTP/1.1" 200 -
+2025-07-16 11:00:36,544 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:36] "GET /socket.io/?EIO=4&transport=polling&t=PWIvBjj&sid=gVT4SD7uOVIDSQcAAAAG HTTP/1.1" 200 -
+2025-07-16 11:00:37,293 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:37] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:38,377 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:38] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:39,245 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET / HTTP/1.1" 200 -
+2025-07-16 11:00:39,290 - __main__ - INFO - Клиент отключился: bOKdiaNz4uxSLqO5AAAH
+2025-07-16 11:00:39,290 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET /socket.io/?EIO=4&transport=websocket&sid=gVT4SD7uOVIDSQcAAAAG HTTP/1.1" 200 -
+2025-07-16 11:00:39,381 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET /socket.io/?EIO=4&transport=polling&t=PWIvCQS HTTP/1.1" 200 -
+2025-07-16 11:00:39,419 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:39,494 - __main__ - INFO - Клиент подключился: 0o893B8Wh-P5ajXhAAAJ
+2025-07-16 11:00:39,496 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "POST /socket.io/?EIO=4&transport=polling&t=PWIvCRa&sid=DRHscuV1PRQ2AMcRAAAI HTTP/1.1" 200 -
+2025-07-16 11:00:39,496 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET /socket.io/?EIO=4&transport=polling&t=PWIvCRb&sid=DRHscuV1PRQ2AMcRAAAI HTTP/1.1" 200 -
+2025-07-16 11:00:39,593 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:39] "GET /socket.io/?EIO=4&transport=polling&t=PWIvCTM&sid=DRHscuV1PRQ2AMcRAAAI HTTP/1.1" 200 -
+2025-07-16 11:00:40,423 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:41,505 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:41,832 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:41] "GET / HTTP/1.1" 200 -
+2025-07-16 11:00:41,877 - __main__ - INFO - Клиент отключился: 0o893B8Wh-P5ajXhAAAJ
+2025-07-16 11:00:41,878 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:41] "GET /socket.io/?EIO=4&transport=websocket&sid=DRHscuV1PRQ2AMcRAAAI HTTP/1.1" 200 -
+2025-07-16 11:00:42,007 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "GET /socket.io/?EIO=4&transport=polling&t=PWIvD2s HTTP/1.1" 200 -
+2025-07-16 11:00:42,015 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:42,107 - __main__ - INFO - Клиент подключился: UzZUnT5jY-srvjTGAAAL
+2025-07-16 11:00:42,108 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "POST /socket.io/?EIO=4&transport=polling&t=PWIvD4a&sid=-i_HYAouaXQWrAprAAAK HTTP/1.1" 200 -
+2025-07-16 11:00:42,110 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "GET /socket.io/?EIO=4&transport=polling&t=PWIvD4a.0&sid=-i_HYAouaXQWrAprAAAK HTTP/1.1" 200 -
+2025-07-16 11:00:42,205 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "GET /socket.io/?EIO=4&transport=polling&t=PWIvD6A&sid=-i_HYAouaXQWrAprAAAK HTTP/1.1" 200 -
+2025-07-16 11:00:42,587 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:43,670 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:44,209 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET / HTTP/1.1" 200 -
+2025-07-16 11:00:44,256 - __main__ - INFO - Клиент отключился: UzZUnT5jY-srvjTGAAAL
+2025-07-16 11:00:44,256 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /socket.io/?EIO=4&transport=websocket&sid=-i_HYAouaXQWrAprAAAK HTTP/1.1" 200 -
+2025-07-16 11:00:44,439 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIvDes HTTP/1.1" 200 -
+2025-07-16 11:00:44,443 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:44,569 - __main__ - INFO - Клиент подключился: 6lMoI2Hm55QAG02XAAAN
+2025-07-16 11:00:44,571 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "POST /socket.io/?EIO=4&transport=polling&t=PWIvDgx&sid=SZg_o2mhsY3RvpMVAAAM HTTP/1.1" 200 -
+2025-07-16 11:00:44,572 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIvDgx.0&sid=SZg_o2mhsY3RvpMVAAAM HTTP/1.1" 200 -
+2025-07-16 11:00:44,581 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 11:00:44,668 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIvDie&sid=SZg_o2mhsY3RvpMVAAAM HTTP/1.1" 200 -
+2025-07-16 11:00:44,752 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:45,446 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:45] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:45,449 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:45] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:46,746 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:46] "GET / HTTP/1.1" 200 -
+2025-07-16 11:00:46,790 - __main__ - INFO - Клиент отключился: 6lMoI2Hm55QAG02XAAAN
+2025-07-16 11:00:46,790 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:46] "GET /socket.io/?EIO=4&transport=websocket&sid=SZg_o2mhsY3RvpMVAAAM HTTP/1.1" 200 -
+2025-07-16 11:00:46,915 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:46] "GET /socket.io/?EIO=4&transport=polling&t=PWIvEG7 HTTP/1.1" 200 -
+2025-07-16 11:00:46,954 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:46] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:47,042 - __main__ - INFO - Клиент подключился: QmdpJ8RgzE_JxfMrAAAP
+2025-07-16 11:00:47,044 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "POST /socket.io/?EIO=4&transport=polling&t=PWIvEHY&sid=LM2Ils4ompvKQyjjAAAO HTTP/1.1" 200 -
+2025-07-16 11:00:47,047 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "GET /socket.io/?EIO=4&transport=polling&t=PWIvEHZ&sid=LM2Ils4ompvKQyjjAAAO HTTP/1.1" 200 -
+2025-07-16 11:00:47,055 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-16 11:00:47,140 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "GET /socket.io/?EIO=4&transport=polling&t=PWIvEJI&sid=LM2Ils4ompvKQyjjAAAO HTTP/1.1" 200 -
+2025-07-16 11:00:47,965 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:47,967 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:47] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:48,903 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:48] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:48,981 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:48] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:00:52,955 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:52] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:00:57,953 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:00:57] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:02,948 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:02] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:07,961 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:07] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:08,741 - modules.knowledge_base - INFO - ✅ База знаний инициализирована: legal_docs
+2025-07-16 11:01:08,741 - __main__ - INFO - Сервисы админ-панели инициализированы
+2025-07-16 11:01:08,746 - __main__ - INFO - Запуск админ-панели на http://0.0.0.0:5000
+2025-07-16 11:01:08,746 - werkzeug - WARNING - Werkzeug appears to be used in a production deployment. Consider switching to a production web server instead.
+2025-07-16 11:01:08,749 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.19.0.3:5000
+2025-07-16 11:01:08,750 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 11:01:12,953 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:12] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:15,377 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:15] "GET / HTTP/1.1" 200 -
+2025-07-16 11:01:15,712 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:15] "GET /socket.io/?EIO=4&transport=polling&t=PWIvLI9 HTTP/1.1" 200 -
+2025-07-16 11:01:15,752 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:15] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:01:15,930 - __main__ - INFO - Клиент подключился: IjZrpX8p4jWkuRM1AAAR
+2025-07-16 11:01:15,931 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:15] "POST /socket.io/?EIO=4&transport=polling&t=PWIvLL0&sid=jaOI9l5Rkht8EhIAAAAQ HTTP/1.1" 200 -
+2025-07-16 11:01:15,931 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:15] "GET /socket.io/?EIO=4&transport=polling&t=PWIvLL1&sid=jaOI9l5Rkht8EhIAAAAQ HTTP/1.1" 200 -
+2025-07-16 11:01:16,065 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:16] "GET /socket.io/?EIO=4&transport=polling&t=PWIvLNE&sid=jaOI9l5Rkht8EhIAAAAQ HTTP/1.1" 200 -
+2025-07-16 11:01:16,755 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:16] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:17,784 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:17] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:01:17,838 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:17] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:17,861 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:17] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:01:18,918 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:18] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:21,754 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:21] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:23,674 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:24,026 - __main__ - INFO - Клиент отключился: IjZrpX8p4jWkuRM1AAAR
+2025-07-16 11:01:24,027 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:24] "GET /socket.io/?EIO=4&transport=websocket&sid=jaOI9l5Rkht8EhIAAAAQ HTTP/1.1" 200 -
+2025-07-16 11:01:28,678 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:28] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:33,668 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:38,671 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:38] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:40,688 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:41,770 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:43,671 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:48,665 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:48] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:53,669 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:53] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:01:58,677 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:01:58] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:03,668 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:08,664 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:08] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:13,678 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:13] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:18,676 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:18] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:23,676 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:40,683 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:41,765 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:02:42,848 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:02:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:03:40,690 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:03:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:03:41,773 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:03:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:03:42,856 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:03:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:04:40,689 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:04:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:04:41,773 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:04:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:04:42,856 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:04:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:05:40,693 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:05:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:05:41,775 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:05:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:05:42,858 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:05:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:06:40,689 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:06:41,773 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:06:42,856 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:06:44,630 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIwbSJ HTTP/1.1" 200 -
+2025-07-16 11:06:44,805 - __main__ - INFO - Клиент подключился: Nx4qAf_edIZC9B3hAAAT
+2025-07-16 11:06:44,805 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:44] "POST /socket.io/?EIO=4&transport=polling&t=PWIwbbX&sid=kkzeDP8cddcagJtpAAAS HTTP/1.1" 200 -
+2025-07-16 11:06:44,808 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIwbbb&sid=kkzeDP8cddcagJtpAAAS HTTP/1.1" 200 -
+2025-07-16 11:06:44,960 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:44] "GET /socket.io/?EIO=4&transport=polling&t=PWIwbe3&sid=kkzeDP8cddcagJtpAAAS HTTP/1.1" 200 -
+2025-07-16 11:06:50,203 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:50] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:06:55,950 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:06:55] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:00,960 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:00] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:05,955 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:05] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:10,933 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:10] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:15,954 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:15] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:20,951 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:20] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:26,015 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:26] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:30,208 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:30] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:33,170 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET / HTTP/1.1" 200 -
+2025-07-16 11:07:33,236 - __main__ - INFO - Клиент отключился: Nx4qAf_edIZC9B3hAAAT
+2025-07-16 11:07:33,236 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET /socket.io/?EIO=4&transport=websocket&sid=kkzeDP8cddcagJtpAAAS HTTP/1.1" 200 -
+2025-07-16 11:07:33,380 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET /socket.io/?EIO=4&transport=polling&t=PWIwnSv HTTP/1.1" 200 -
+2025-07-16 11:07:33,395 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET /api/logs HTTP/1.1" 200 -
+2025-07-16 11:07:33,513 - __main__ - INFO - Клиент подключился: TLjXUBdlomd3DfPaAAAV
+2025-07-16 11:07:33,516 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "POST /socket.io/?EIO=4&transport=polling&t=PWIwnUU&sid=94YVcornYSrskyzyAAAU HTTP/1.1" 200 -
+2025-07-16 11:07:33,516 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET /socket.io/?EIO=4&transport=polling&t=PWIwnUW&sid=94YVcornYSrskyzyAAAU HTTP/1.1" 200 -
+2025-07-16 11:07:33,663 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:33] "GET /socket.io/?EIO=4&transport=polling&t=PWIwnXH&sid=94YVcornYSrskyzyAAAU HTTP/1.1" 200 -
+2025-07-16 11:07:34,391 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:35,584 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:35] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:39,533 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:40,676 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:41,758 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:42,844 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:44,415 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:49,392 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:55,029 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:55] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:07:59,950 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:07:59] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:04,944 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:04] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:09,948 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:09] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:14,967 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:14] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:19,966 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:19] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:24,968 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:24] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:29,986 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:29] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:34,950 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:34] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:39,966 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:39] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:40,685 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:41,767 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:42,850 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:44,977 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:44] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:08:49,937 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:08:49] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:09:17,185 - __main__ - INFO - Клиент отключился: TLjXUBdlomd3DfPaAAAV
+2025-07-16 11:09:17,185 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:09:17] "GET /socket.io/?EIO=4&transport=websocket&sid=94YVcornYSrskyzyAAAU HTTP/1.1" 200 -
+2025-07-16 11:09:40,678 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:09:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:09:41,760 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:09:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:09:42,842 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:09:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:10:40,675 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:10:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:10:41,759 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:10:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:10:42,842 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:10:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:11:40,679 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:11:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:11:41,762 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:11:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:11:42,843 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:11:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:12:40,677 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:12:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:12:41,760 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:12:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:12:42,843 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:12:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:13:40,672 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:13:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:13:41,756 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:13:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:13:42,839 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:13:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:14:40,670 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:14:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:14:41,753 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:14:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:14:42,838 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:14:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:35,539 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:35] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:38,655 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:38] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:40,665 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:41,746 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:43,657 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:43] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:48,665 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:48] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:53,651 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:53] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:15:58,665 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:15:58] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:03,655 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:03] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:08,655 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:08] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:13,659 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:13] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:18,655 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:18] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:23,651 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:23] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:28,657 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:28] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:33,653 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:33] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:40,679 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:41,761 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:16:42,842 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:16:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:17:40,695 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:17:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:17:41,781 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:17:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:17:42,868 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:17:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:18:40,714 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:18:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:18:41,801 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:18:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:18:42,888 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:18:42] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:19:40,677 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:19:40] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:19:41,763 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:19:41] "GET /api/stats HTTP/1.1" 200 -
+2025-07-16 11:19:42,847 - werkzeug - INFO - 37.214.62.56 - - [16/Jul/2025 11:19:42] "GET /api/stats HTTP/1.1" 200 -

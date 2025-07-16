@@ -1,0 +1,35 @@
+# Оптимизированный Dockerfile для продакшена (без данных)
+FROM python:3.10-slim
+
+# Устанавливаем рабочую директорию
+WORKDIR /app
+
+# Копируем файл с зависимостями
+COPY requirements.txt ./
+
+# Устанавливаем зависимости
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копируем только код (без данных)
+COPY main.py admin_panel.py config.py ./
+COPY modules/ ./modules/
+COPY templates/ ./templates/
+COPY static/ ./static/
+
+# Переменная для выбора запускаемого сервиса
+ENV SERVICE=bot
+
+# Создаем пустые директории для volumes
+RUN mkdir -p data db/chroma models logs
+
+# Устанавливаем переменные окружения
+ENV PYTHONPATH=/app
+ENV PYTHONUNBUFFERED=1
+ENV TZ=Europe/Moscow
+RUN ln -snf /usr/share/zoneinfo/Europe/Moscow /etc/localtime && echo Europe/Moscow > /etc/timezone
+
+# Открываем порт
+EXPOSE 8000
+
+# Команда для запуска приложения
+CMD ["sh", "-c", "if [ $SERVICE = 'admin' ]; then python admin_panel.py; else python main.py; fi"] 
